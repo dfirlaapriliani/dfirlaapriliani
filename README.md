@@ -31,7 +31,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dfirlaaprilianiE&theme=dracula&row=1&column=7" />
 </p>
 
 ---
