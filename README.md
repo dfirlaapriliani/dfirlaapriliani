@@ -1,53 +1,23 @@
-<h1 align="center">Hi, I'm Firla! 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Front-End+Developer;Software+Engineer;Creative+UI%2FUX+Designer" alt="Typing SVG" />
-</p>
+# Hi there, I'm [Your Name] 👋
 
----
+🚀 Professional Software Engineer specializing in [your specialties, e.g., backend development, cloud architecture]
 
-### 🧠 About Me
-- 🌐 I'm a passionate **Front-End Developer** and **Software Engineer**
-- 🎨 Love crafting elegant & responsive UI with a modern 3D & glassmorphism touch
-- 🧩 Always learning about modern tech, UI/UX trends, and interactive animations
-- 🔭 Currently building: **VierTrack** — a smart finance manager with style
-- 💡 Fun fact: I treat every pixel like royalty
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
----
+## 📈 GitHub Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
-### 🚀 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,bootstrap,figma,git,github,vscode,nodejs" />
-</div>
+## 🔭 I'm currently working on
+- [Project Name](link) - Short description
+- [Project Name](link) - Short description
 
----
+## 🌱 I'm currently learning
+- Technology 1
+- Technology 2
 
-### 📈 GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&row=1&column=7" />
-</p>
-
----
-
-### 📬 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-purple?style=flat-square&logo=firefox&logoColor=white" /></a>
-</p>
-
----
-
-### 🎨 Personal Quote
-> "Design is not just what it looks like and feels like. Design is how it works." – *Steve Jobs*
-
----
-
-🧡 *Thank you for visiting my profile! Let's build something awesome together!*
+## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@domain.com)
