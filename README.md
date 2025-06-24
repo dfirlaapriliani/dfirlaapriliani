@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Woman coding" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="Woman coding 1" />
+  <img src="https://media.giphy.com/media/tf9jjMcO77YzV4YPwE/giphy.gif" width="220" alt="Woman coding 2" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Woman coding 3" />
 </p>
 
 ---
