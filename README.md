@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Firla! 👋</h1>
+<h1 align="center">Hi, I'm D Firla Apriliani! 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Front-End+Developer;Software+Engineer;Creative+UI%2FUX+Designer" alt="Typing SVG" />
 </p>
@@ -6,17 +6,17 @@
 ---
 
 ### 🧠 About Me
-- 🌐 I'm a passionate **Front-End Developer** and **Software Engineer**
+- 🌐 I'm a passionate **Front-End Developer**, **Back-End Developer** and **Software Engineer**
 - 🎨 Love crafting elegant & responsive UI with a modern 3D & glassmorphism touch
 - 🧩 Always learning about modern tech, UI/UX trends, and interactive animations
-- 🔭 Currently building: **VierTrack** — a smart finance manager with style
+- 🔭 Currently building: Some simple projects that will definitely be useful for others
 - 💡 Fun fact: I treat every pixel like royalty
 
 ---
 
 ### 🚀 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,bootstrap,figma,git,github,vscode,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,bootstrap,figma,git,github,vscode,nodejs,laravel,docker,python" />
 </div>
 
 ---
