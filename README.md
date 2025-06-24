@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Front-End+Developer;Software+Engineer;Creative+UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+
 ---
 
 ### 🧠 About Me
