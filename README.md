@@ -1,12 +1,15 @@
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Woman coding" />
     </td>
-    <td>
+    <td style="border: none; padding-left: 20px;">
       <h1 align="left">Hi, I'm D Firla Apriliani! 👋</h1>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=false&vCenter=true&width=300&lines=Front-End+Developer;Software+Engineer;Creative+UI%2FUX+Designer" alt="Typing SVG" />
-      <p><em>I'm a passionate Front-End Developer and Software Engineer who loves building aesthetic, responsive, and interactive web experiences. Currently working on cool UI projects with a mix of creativity and logic 💻✨</em></p>
+      <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=E27EFF&center=false&vCenter=true&width=350&lines=Front-End+Developer;Software+Engineer;Creative+UI%2FUX+Designer" alt="Typing SVG" />
+      <p>
+        <em>I'm a passionate <strong>Front-End Developer</strong> and <strong>Software Engineer</strong> who loves building aesthetic, responsive, and interactive web experiences.<br/>
+        Currently exploring dreamy UI/UX and smooth frontend interactions to make user experiences unforgettable 💜✨</em>
+      </p>
     </td>
   </tr>
 </table>
