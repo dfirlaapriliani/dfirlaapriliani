@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="Woman coding 1" />
-  <img src="https://media.giphy.com/media/tf9jjMcO77YzV4YPwE/giphy.gif" width="220" alt="Woman coding 2" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Woman coding 3" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="Woman coding professional" />
+  <img src="https://media.tenor.com/view/happy-programmer-happy-coder-coding-programming-happy-gif-17855444.gif" width="220" alt="Happy programmer" />
+  <img src="https://media.tenor.com/view/cute-programmer-gif-26324022.gif" width="220" alt="Cute programmer" />
 </p>
+
 
 ---
 
