@@ -1,41 +1,40 @@
-<h1 align="center">Hi there, I'm Dedek 👋</h1>
+<h1 align="center">Hi, I'm Firla 👩‍💻</h1>
+<h3 align="center">Front-End Developer • Software Engineer • UI/UX Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=24&color=6C63FF&center=true&vCenter=true&lines=Front-End+Developer;Creative+UI%2FUX+Designer;Tech+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Open+to+Collaboration!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Crafting+Interactive+Websites;Bringing+Designs+to+Life;Code+with+Love+%26+Logic" />
 </p>
 
 ---
 
-### ✨ About Me
-- 🎨 I'm a passionate **Frontend Developer** & **Web Designer**
-- 🛠️ I love turning ideas into beautiful and functional websites
-- 🌱 Currently learning: `React`, `Tailwind`, `Node.js`
-- 📬 Reach me via [Email](mailto:dedek@example.com) or [LinkedIn](https://linkedin.com/in/dedek)
+### 💫 About Me
 
----
+```js
+const firla = {
+  name: "Firla",
+  role: "Front-End Developer & Software Engineer",
+  focus: "Building smooth, elegant, and responsive UIs",
+  passion: ["Design Systems", "Creative Web Animation", "User-Centered Products"],
+  currentlyLearning: ["TypeScript", "Next.js", "Tailwind Magic ✨"],
+  tools: ["React", "Tailwind", "Next.js", "Figma", "GitHub", "VSCode"],
+};
+🛠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,github,vscode" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=firla-username&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=firla-username&theme=tokyonight&hide_border=true&border_radius=10" width="47%" /> </p>
+🚀 Highlight Projects
+🧙‍♀️ Portfolio Website
+Personal website made with React + Tailwind + Glassmorphism + Framer Motion.
 
-### 🧰 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,figma,github" />
-</p>
+📋 To-Do Pro App
+Sleek to-do app with dark mode, drag & drop, sound feedback, and animation.
 
----
+💬 Live Chat App
+Real-time chat using Firebase + React with beautiful responsive UI.
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dedek-cantik&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedek-cantik&layout=compact&theme=radical&hide_border=true" />
-</p>
+🌐 Connect with Me
+<p align="center"> <a href="https://linkedin.com/in/firla" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:firla@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://firla.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
+📖 Quote of the Day
+"Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
 
----
-
-### 💬 Quote of the Day
-> *"Great things never come from comfort zones."*
-
----
-
-### ☕ Let's Connect
-<p>
-  <a href="https://linkedin.com/in/dedek" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dedek@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/6281234567890"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+<p align="center"> 💖 Built with passion by <strong>Firla</strong> — Turning code into experience. </p> ```
