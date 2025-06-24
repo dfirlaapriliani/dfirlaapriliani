@@ -16,7 +16,7 @@
 
 ### 🚀 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,bootstrap,figma,git,github,vscode,nodejs,laravel,docker,python,java,composer,postman,unity.flutter,gitlab,blade,php,go" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,bootstrap,figma,git,github,vscode,nodejs,laravel,docker,python,java,composser,postman,GDevelop.flutter,gitlab,blade,php,go" />
 </div>
 
 ---
