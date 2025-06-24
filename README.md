@@ -1,40 +1,59 @@
-<h1 align="center">Hi, I'm Firla 👩‍💻</h1>
-<h3 align="center">Front-End Developer • Software Engineer • UI/UX Enthusiast</h3>
+<h1 align="center">Hi there, I'm Firla! 👋</h1>
+<h3 align="center">A Passionate Front-End Developer & Software Engineer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Crafting+Interactive+Websites;Bringing+Designs+to+Life;Code+with+Love+%26+Logic" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7C8E0&center=true&vCenter=true&width=435&lines=Professional+Front-End+Developer;Creative+UI%2FUX+Enthusiast;Love+to+Build+Beautiful+Interfaces" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💫 About Me
+### ✨ About Me
+- 🎓 I'm a Software Engineer with strong focus on UI/UX & front-end development.
+- 💻 Currently working on personal and freelance web projects.
+- 🎯 Always excited about building beautiful, responsive, and intuitive user experiences.
+- 🧠 Learning: React, Next.js, GSAP Animation.
 
-```js
-const firla = {
-  name: "Firla",
-  role: "Front-End Developer & Software Engineer",
-  focus: "Building smooth, elegant, and responsive UIs",
-  passion: ["Design Systems", "Creative Web Animation", "User-Centered Products"],
-  currentlyLearning: ["TypeScript", "Next.js", "Tailwind Magic ✨"],
-  tools: ["React", "Tailwind", "Next.js", "Figma", "GitHub", "VSCode"],
-};
-🛠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,github,vscode" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=firla-username&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=firla-username&theme=tokyonight&hide_border=true&border_radius=10" width="47%" /> </p>
-🚀 Highlight Projects
-🧙‍♀️ Portfolio Website
-Personal website made with React + Tailwind + Glassmorphism + Framer Motion.
+---
 
-📋 To-Do Pro App
-Sleek to-do app with dark mode, drag & drop, sound feedback, and animation.
+### 🛠️ Tech Stack
 
-💬 Live Chat App
-Real-time chat using Firebase + React with beautiful responsive UI.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,figma,github,vscode" />
+</p>
 
-🌐 Connect with Me
-<p align="center"> <a href="https://linkedin.com/in/firla" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:firla@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://firla.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
-📖 Quote of the Day
-"Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
+---
 
-<p align="center"> 💖 Built with passion by <strong>Firla</strong> — Turning code into experience. </p> ```
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FirlaUsername&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FirlaUsername&theme=tokyonight" width="45%" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| **VierTrack** | Manajemen keuangan pribadi dengan UI cantik. | [View Project](https://github.com/FirlaUsername/VierTrack) |
+| **AI Quote Generator** | Generator kutipan AI dengan desain gradasi. | [View Project](https://github.com/FirlaUsername/AIQuoteGenerator) |
+| **Cute Baby Shoes** | E-commerce untuk sepatu bayi lucu & mahal. | [View Project](https://github.com/FirlaUsername/BabyShoes) |
+
+---
+
+### 📬 Contact Me
+
+<p align="left">
+  <a href="mailto:firla@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/firla"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/628123456789"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
+
+---
+
+> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
+
+---
+
+<p align="center">Thank you for visiting my GitHub Profile! 🌟</p>
