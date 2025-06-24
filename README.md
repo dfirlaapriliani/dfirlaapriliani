@@ -1,59 +1,53 @@
-<h1 align="center">Hi there, I'm Firla! 👋</h1>
-<h3 align="center">A Passionate Front-End Developer & Software Engineer from Indonesia</h3>
-
+<h1 align="center">Hi, I'm Firla! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7C8E0&center=true&vCenter=true&width=435&lines=Professional+Front-End+Developer;Creative+UI%2FUX+Enthusiast;Love+to+Build+Beautiful+Interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Front-End+Developer;Software+Engineer;Creative+UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
 ---
 
-### ✨ About Me
-- 🎓 I'm a Software Engineer with strong focus on UI/UX & front-end development.
-- 💻 Currently working on personal and freelance web projects.
-- 🎯 Always excited about building beautiful, responsive, and intuitive user experiences.
-- 🧠 Learning: React, Next.js, GSAP Animation.
+### 🧠 About Me
+- 🌐 I'm a passionate **Front-End Developer** and **Software Engineer**
+- 🎨 Love crafting elegant & responsive UI with a modern 3D & glassmorphism touch
+- 🧩 Always learning about modern tech, UI/UX trends, and interactive animations
+- 🔭 Currently building: **VierTrack** — a smart finance manager with style
+- 💡 Fun fact: I treat every pixel like royalty
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,figma,github,vscode" />
-</p>
+### 🚀 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,bootstrap,figma,git,github,vscode,nodejs" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+</div>
 
+---
+
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FirlaUsername&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FirlaUsername&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&row=1&column=7" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| **VierTrack** | Manajemen keuangan pribadi dengan UI cantik. | [View Project](https://github.com/FirlaUsername/VierTrack) |
-| **AI Quote Generator** | Generator kutipan AI dengan desain gradasi. | [View Project](https://github.com/FirlaUsername/AIQuoteGenerator) |
-| **Cute Baby Shoes** | E-commerce untuk sepatu bayi lucu & mahal. | [View Project](https://github.com/FirlaUsername/BabyShoes) |
-
----
-
-### 📬 Contact Me
-
-<p align="left">
-  <a href="mailto:firla@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/firla"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/628123456789"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+### 📬 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-purple?style=flat-square&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
+### 🎨 Personal Quote
+> "Design is not just what it looks like and feels like. Design is how it works." – *Steve Jobs*
 
 ---
 
-<p align="center">Thank you for visiting my GitHub Profile! 🌟</p>
+🧡 *Thank you for visiting my profile! Let's build something awesome together!*
