@@ -1,13 +1,10 @@
-<h1 align="center">Hi, I'm D Firla Apriliani! 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=36&duration=3000&pause=1000&color=E27EFF&center=true&vCenter=true&width=500&lines=Hi+I'm+D+Firla+Apriliani!+👩‍💻;Front-End+Developer+💻;Creative+Engineer+🧠;Passionate+UI%2FUX+Designer+🎨" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Front-End+Developer;Software+Engineer;Creative+UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/tf9jjMcO77YzV4YPwE/giphy.gif" width="300" />
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
 
 ---
 
