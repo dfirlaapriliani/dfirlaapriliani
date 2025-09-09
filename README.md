@@ -7,7 +7,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> Specialized in **modern UI/UX**, **3D Web Design**, and **Glassmorphism**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> Always learning new **tech stacks** and interactive web trends
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> Currently: Building projects that are aesthetic yet useful
-- <img src="https://img.shields.io/badge/Fun%20Fact-🌟-yellow?style=for-the-badge"/> Fun fact: *I treat every pixel like royalty*
+- ✨ Fun fact: *I treat every pixel like royalty*
 
 ---
 
