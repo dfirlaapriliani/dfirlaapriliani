@@ -1,12 +1,4 @@
-<!-- Banner Section -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Girl" />
-</p>
-
-<h1 align="center">Hi, I'm D Firla Apriliani 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Front-End+Developer;Software+Engineer;UI%2FUX+Designer;Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
-</p>
+<table align="center" cellspacing="0" cellpadding="0" style="border: none;"> <tr> <td style="border: none;"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Woman coding" /> </td> <td style="border: none; padding-left: 20px;"> <h1 align="left">Hi, I'm D Firla Apriliani! 👋</h1> <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=E27EFF&center=false&vCenter=true&width=350&lines=Front-End+Developer;Software+Engineer;Creative+UI%2FUX+Designer" alt="Typing SVG" /> <p> <em>I'm a passionate <strong>Front-End Developer</strong> and <strong>Software Engineer</strong> who loves building aesthetic, responsive, and interactive web experiences.<br/> Currently exploring dreamy UI/UX and smooth frontend interactions to make user experiences unforgettable 💜✨</em> </p> </td> </tr> </table>
 
 ---
 
