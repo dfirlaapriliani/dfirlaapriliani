@@ -1,33 +1,21 @@
 <table align="center" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
-    <!-- Left side (GIF) -->
-    <td style="border: none; vertical-align: top;">
-      <img 
-        src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
-        width="200" 
-        alt="Woman coding" 
-        style="border-radius: 10px;" 
-      />
+    <td style="border: none;">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Woman coding" />
     </td>
-
-    <!-- Right side (Intro text) -->
-    <td style="border: none; padding-left: 20px; vertical-align: top;">
-      <h1 align="left">Hi, I'm <span style="color:#E27EFF;">D Firla Apriliani</span>! 👋</h1>
-
-      <!-- Typing animation -->
+    <td style="border: none; padding-left: 20px;">
+      <h1 align="left">Hi, I'm D Firla Apriliani! 👋</h1>
       <img 
         src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=E27EFF&center=false&vCenter=true&width=350&lines=Front-End+Developer;Software+Engineer;Creative+UI%2FUX+Designer" 
         alt="Typing SVG" 
       />
-
-      <!-- Short bio -->
       <p>
         <em>
           I'm a passionate <strong>Front-End Developer</strong> and 
-          <strong>Software Engineer</strong> who loves building 
-          aesthetic, responsive, and interactive web experiences.<br/>
-          Currently exploring dreamy UI/UX and smooth frontend 
-          interactions to make user experiences unforgettable 💜✨
+          <strong>Software Engineer</strong> who loves building aesthetic, responsive, 
+          and interactive web experiences.<br/>
+          Currently exploring dreamy UI/UX and smooth frontend interactions 
+          to make user experiences unforgettable 💜✨
         </em>
       </p>
     </td>
