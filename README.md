@@ -1,46 +1,42 @@
-<table align="center" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <!-- Left side (GIF) -->
-    <td style="border: none; vertical-align: middle; text-align: center; padding: 10px;">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="Woman coding" style="border-radius: 10px;"/>
+    <!-- GIF kiri -->
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="Coding GIF" />
     </td>
 
-    <!-- Right side (Intro text) -->
-    <td style="border: none; vertical-align: middle; padding-left: 30px; max-width: 600px;">
-      <h1 align="left">Hi, I'm <span style="color:#9b5de5;">D Firla Apriliani</span>! 👋</h1>
-      
-      <!-- Typing animation -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=9B5DE5&vCenter=true&width=450&lines=Front-End+Developer;Software+Engineer;Creative+UI%2FUX+Designer;Lifelong+Learner+%F0%9F%92%AB" alt="Typing SVG" />
+    <!-- Teks kanan -->
+    <td style="border: none; padding-left: 25px; vertical-align: middle;">
+      <h1 align="left">Hi, I'm <b>D Firla Apriliani</b> 👋</h1>
 
-      <!-- About me -->
-      <p align="left" style="font-size: 15px;">
+      <!-- Typing animation -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=9B5DE5&vCenter=true&width=400&lines=Front-End+Developer;Software+Engineer;Creative+UI%2FUX+Designer" alt="Typing Animation" />
+
+      <!-- Deskripsi singkat -->
+      <p align="left">
         <em>
-          I'm a passionate <strong>Front-End Developer</strong> and <strong>Software Engineer</strong> who loves building 
-          <span style="color:#9b5de5;">aesthetic</span>, <span style="color:#00bbf9;">responsive</span>, and 
-          <span style="color:#f15bb5;">interactive</span> web experiences.<br/>
-          Currently exploring dreamy <strong>UI/UX</strong> and smooth frontend interactions 
-          to make user experiences unforgettable 💜✨
+          I'm a passionate <b>Front-End Developer</b> and <b>Software Engineer</b> 
+          who loves building aesthetic, responsive, and interactive web experiences.<br/>
+          Currently exploring smooth <b>UI/UX</b> to create unforgettable user journeys 💜✨
         </em>
       </p>
 
-      <!-- Cool badges -->
+      <!-- Badge sosial -->
       <p align="left">
-        <a href="https://github.com/dfirlaapriliani" target="_blank">
+        <a href="https://github.com/dfirlaapriliani">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
         </a>
-        <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+        <a href="https://linkedin.com/in/your-linkedin">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
         </a>
         <a href="mailto:your.email@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-        </a>
-        <a href="https://firla-portfolio.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-9B5DE5?style=flat&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
         </a>
       </p>
     </td>
   </tr>
 </table>
+
 
 ---
 
